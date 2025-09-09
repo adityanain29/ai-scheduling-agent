@@ -1,4 +1,5 @@
 # AI-Medical-Appointment-Scheduling-Agent
+A fully functional AI-powered medical appointment scheduling agent designed to address common inefficiencies in clinic operations. Built using a robust LangGraph and LangChain architecture, the agent guides users through a complete booking workflow in a conversational Streamlit application. It successfully implements all core requirements, including patient lookup with new/returning patient detection, smart scheduling with variable appointment durations, calendar conflict prevention, automated patient intake form distribution via email, and a multi-channel (SMS & Email) 3-tier reminder system with actionable prompts to confirm attendance and reduce patient no-shows.
 
 ## Configuration: Environment Setup Guide
 
