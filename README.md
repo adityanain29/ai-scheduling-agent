@@ -1,4 +1,4 @@
-# ai-medical-appointment-scheduling-agent
+# AI-Medical-Appointment-Scheduling-Agent
 
 ## Configuration: Environment Setup Guide
 
